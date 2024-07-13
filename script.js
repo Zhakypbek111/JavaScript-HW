@@ -1,1 +1,1 @@
-console.log("Hello Zhakypbek")
+console.log("Hello Session-1")
